@@ -12,9 +12,6 @@ function App() {
      <Player whichPlayer="O" />
      <Board />
 
-
-
-
     </>
   )
 }

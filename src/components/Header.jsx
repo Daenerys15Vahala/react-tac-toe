@@ -1,6 +1,6 @@
 function Header () {
     return (
-        <h1>React Tac Toe</h1>
+        <h1>REACT TAC TOE</h1>
     );
 }
 
