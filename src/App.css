@@ -1,10 +1,10 @@
 :root {
   --dark-cerulean: #e97e27;
   --maastricht-blue: #ee650a;
-  --yankees-blue: #e98949;
+  --yankees-blue: #6e8f99;
   --sea-serpent: #2c096e;
-  --aquamarine: #610fa5;
-  --react: #63119b;
+  --aquamarine: rgb(158, 184, 158);
+  --react: #91d423;
 }
 
 html {
